@@ -1,0 +1,20 @@
+{
+  "name": "com.volorf.xyz-axis",
+  "version": "1.0.0",
+  "displayName": "XYZ Axis",
+  "description": "XYZ model for debugging axis.",
+  "unity": "2019.4",
+  "unityRelease": "7f1",
+  "dependencies": {
+  },
+  "keywords": [
+    "axis",
+    "debug",
+    "package"
+  ],
+  "author": {
+    "name": "Oleg Frolov",
+    "email": "olegfrolovdesign@gmail.com",
+    "url": "https://www.olegfrolov.design"
+  }
+}
